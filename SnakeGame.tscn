@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5u1v8jexqjdc"]
+
+[ext_resource type="Script" path="res://SnakeGame.cs" id="1_1fxlv"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_1fxlv")
+
+[node name="Timer" type="Timer" parent="."]
